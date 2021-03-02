@@ -11,3 +11,7 @@ semana 1
 semana 2
 + 10.02.2021:
 + 11.02.2021: Primerosa pasos usanso Rstudio.
+
+semana 3
++ 17.02.2021: Laboratorio 1
++ 18.02.2021: 
